@@ -1,4 +1,4 @@
-# [HR Insights and Trends using PowerBI](https://www.linkedin.com/in/virajnbhutada24/)
+# [HR Insights and Trends using PowerBI]
 
 ---
 
