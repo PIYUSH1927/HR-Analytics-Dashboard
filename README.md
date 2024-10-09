@@ -1,10 +1,10 @@
 # [HR Insights and Trends using PowerBI]
 
 ---
-
 <table>
     <tr>
         <td><img src="https://github.com/PIYUSH1927/HR-Analytics-Dashboard/blob/master/assets/dashboard.png" alt="Dashboard Screenshot"></td>
+        <td><img src="https://github.com/PIYUSH1927/HR-Analytics-Dashboard/blob/master/assets/R&D.png" alt="R&D Screenshot"></td>
     </tr>
 </table>
 
