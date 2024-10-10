@@ -1,4 +1,4 @@
-# [HR Insights and Trends using PowerBI]
+# [HR Analytics Dashboard using PowerBI]
 
 ---
 <table>
