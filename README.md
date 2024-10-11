@@ -1,13 +1,13 @@
-# [HR Insights and Trends using PowerBI](https://www.linkedin.com/in/virajnbhutada24/)
+# [HR Analytics Dashboard using PowerBI]
 
 ---
-
 <table>
     <tr>
-        <td><img src="https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/bfdefdc7-4a7e-4290-9709-9b4c5ecec2ae" alt="Screenshot 1"></td>
-        <td><img src="https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/b34d77e1-46f0-4ace-b1bc-d2c93b5132b3" alt="Screenshot 2"></td>
+        <td><img src="https://github.com/PIYUSH1927/HR-Analytics-Dashboard/blob/master/assets/dashboard.png" alt="Dashboard Screenshot"></td>
+        <td><img src="https://github.com/PIYUSH1927/HR-Analytics-Dashboard/blob/master/assets/R&D.png" alt="R&D Screenshot"></td>
     </tr>
 </table>
+
 
 ---
 
